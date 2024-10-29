@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Trushil Patel
 
-🚀 **Software Engineer | 4+ Years Experience | [LinkedIn](https://linkedin.com/in/trushilpatel) | [Email](mailto:trushilpatel9898@gmail.com) | CA, USA
+🚀 Software Engineer | 4+ Years Experience | [LinkedIn](https://linkedin.com/in/trushilpatel) | [Email](mailto:trushilpatel9898@gmail.com) | California, USA
 
 ### 🌟 Interests
 - Full-Stack Software Development • DevOps • Cloud Engineering • Machine Learning • Automation
