@@ -1,11 +1,9 @@
 # 👋 Hi, I’m Trushil Patel
 
-🚀 Software Engineer with 4+ years of experience in full-stack development, distributed systems, and cloud solutions. 
-
-[LinkedIn: linkedin.com/in/trushilpatel](https://linkedin.com/in/trushilpatel) | [trushilpatel9898@gmail.com](mailto:trushilpatel9898@gmail.com)
+🚀 **Software Engineer | 4+ Years Experience | [LinkedIn](https://linkedin.com/in/trushilpatel) | [Email](mailto:trushilpatel9898@gmail.com) | ![Visitor Count](https://komarev.com/ghpvc/?username=trushilpatel&style=flat-square)**
 
 ### 🌟 Interests
-Full-Stack Software Development • DevOps • Cloud Engineering • Machine Learning • Automation
+- Full-Stack Software Development • DevOps • Cloud Engineering • Machine Learning • Automation
 
 ### 💼 Recent Experience
 - **Software Engineer Intern @ Diaryz**  
@@ -29,7 +27,4 @@ Full-Stack Software Development • DevOps • Cloud Engineering • Machine Lea
 | **ML & NLP**          | TensorFlow, OpenAI, PyTorch                                                                           |
 
 ### 📊 GitHub Metrics
-![Visitor Count](https://komarev.com/ghpvc/?username=trushilpatel&style=flat-square)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trushilpatel&show_icons=true&theme=radical)
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=trushilpatel&theme=radical)  
