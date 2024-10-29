@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Trushil Patel
 
-🚀 **Software Engineer | 4+ Years Experience | [LinkedIn](https://linkedin.com/in/trushilpatel) | [Email](mailto:trushilpatel9898@gmail.com) | ![Visitor Count](https://komarev.com/ghpvc/?username=trushilpatel&style=flat-square)**
+🚀 **Software Engineer | 4+ Years Experience | [LinkedIn](https://linkedin.com/in/trushilpatel) | [Email](mailto:trushilpatel9898@gmail.com) | CA, USA
 
 ### 🌟 Interests
 - Full-Stack Software Development • DevOps • Cloud Engineering • Machine Learning • Automation
@@ -13,12 +13,12 @@
    Developed SaaS Healthcare platform and distributed University Management Portal with **Java, PostgreSQL, Python, AWS, Angular**, enhancing performance, stability, and automation.
 
 ### 🔍 Featured Projects
-- **Job Hunting Platform:** LLM-powered job recommendations with **Golang, OpenAI, Kafka**
-- **Multilingual Chatbot:** 85% accuracy in Gujarati language processing using **Python, Django, BERT**
+- **Job Hunting Platform:** LLM-powered job recommendations with **Golang, OpenAI, Kafka**.
+- **Multilingual Chatbot:** 85% accuracy in Gujarati language processing using **Python, Django, BERT**.
 
 ### 🔧 Core Skills
 
-|           | **Technologies**                                                                                      |
+|                       | **Technologies**                                                                                      |
 |-----------------------|------------------------------------------------------------------------------------------------------|
 | **Languages**         | Java, Go, Python, TypeScript, JavaScript                                                             |
 | **Backend & Frontend**| Spring Boot, Node.js, Angular, React                                                                  |
@@ -27,4 +27,6 @@
 | **ML & NLP**          | TensorFlow, OpenAI, PyTorch                                                                           |
 
 ### 📊 GitHub Metrics
+**![Visitor Count](https://komarev.com/ghpvc/?username=trushilpatel&style=flat-square)**
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trushilpatel&show_icons=true&theme=radical)
