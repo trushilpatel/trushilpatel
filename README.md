@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Trushil Patel
 
-👨‍💻 **Full Stack Software Developer | 4+ Years of Experience** | [LinkedIn](https://linkedin.com/in/trushilpatel) | [Email](mailto:trushilpatel9898@gmail.com)  
+👨‍💻 **Full Stack Software Developer | 4+ Years of Experience** | [LinkedIn](https://linkedin.com/in/trushilpatel) | [Email](mailto:trushilpatel9898@gmail.com) | [Leetcode](https://leetcode.com/u/Trushil/)   
 
 ---
 
